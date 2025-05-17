@@ -24,10 +24,5 @@ Xin chào! Mình là **Utaby**, một lập trình viên .NET với niềm đam 
 
 > Không ngừng học hỏi và nâng cao kỹ năng để xây dựng những ứng dụng mang lại giá trị thực tế cho người dùng và doanh nghiệp. Mong muốn được tham gia vào các dự án có tầm ảnh hưởng và học hỏi từ các đồng nghiệp giỏi.
 
-## 📫 Liên hệ
-
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [link profile nếu có]
-- 💻 GitHub: [github.com/yourusername]
 
 Cảm ơn bạn đã ghé thăm!

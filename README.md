@@ -4,7 +4,7 @@ Xin chào! Mình là **Utaby**, một lập trình viên .NET với niềm đam 
 
 ## 🧑‍💻 Về mình
 
-- 💼 Có kinh nghiệm **[X] năm** làm việc với công nghệ .NET (ASP.NET MVC/Core, WPF, WinForms)
+- 💼 Có kinh nghiệm **2 năm** làm việc với công nghệ .NET (ASP.NET MVC/Core, WPF, WinForms)
 - 🧠 Thành thạo C#, SQL Server, Entity Framework, LINQ
 - 🌐 Từng phát triển các hệ thống ERP, quản lý kho, e-learning và các ứng dụng nội bộ cho doanh nghiệp
 - ⚙️ Quen thuộc với kiến trúc **Clean Architecture**, **Dependency Injection**, **RESTful API**
